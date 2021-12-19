@@ -10,13 +10,13 @@
     "codegen": "./node_modules/.bin/subql codegen"
   },
   "homepage": "https://github.com/subquery/subql-starter",
-  "repository": "github:subquery/subql-starter",
+  "repository": "git@github.com:UsmanAAV/subquery-module3-accounts-transfer.git",
   "files": [
     "dist",
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "sa",
+  "author": "Azamat Abdullin",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^6.12.1",

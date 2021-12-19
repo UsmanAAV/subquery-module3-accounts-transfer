@@ -1,6 +1,6 @@
 specVersion: 0.0.1
 description: ''
-repository: ''
+repository: 'git@github.com:UsmanAAV/subquery-module3-accounts-transfer.git'
 schema: ./schema.graphql
 network:
   endpoint: 'wss://polkadot.api.onfinality.io/public-ws'
